@@ -37,9 +37,9 @@ Currently serving as:
 
 A Machine Learning and NLP-based application that classifies news articles as real or fake using trained datasets.
 
-### E-Cell Website
+### Smart Parking System
 
-Developed and maintained the official E-Cell website for GEC Rewa with responsive layouts and optimized performance.
+A web-based solution for managing and optimizing parking space utilization in urban areas.
 
 ## 📜 Certifications
 
